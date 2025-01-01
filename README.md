@@ -1,4 +1,4 @@
-# 🥞 CloudSwap Frontend
+# ☁️ CloudSwap Frontend
 
 <p align="center">
   <a href="https://cloudswap.com.br/">
