@@ -1,8 +1,8 @@
 {
   "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "name": "CloudSwap",
+  "description": "Farm CLOUD with Cloud LP Tokens",
+  "homepage_url": "https://cloudswap.com.br",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
@@ -20,5 +20,5 @@
       "sizes": "256x256"
     }
   ],
-  "iconPath": "/images/cake.svg"
+  "iconPath": "/images/cloud.svg"
 }
