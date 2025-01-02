@@ -6,29 +6,29 @@ const Agreement = () => {
   return (
     <AffiliatesProgramLayout>
       <Container>
-        <Text as="h1">PancakeSwap Affiliate Program Agreement</Text>
+        <Text as="h1">CloudSwap Affiliate Program Agreement</Text>
         <Text as="h3">Last modified: Sep 1, 2023</Text>
         <Text as="p">
-          This PancakeSwap Affiliate Program Agreement (“<strong>Agreement”</strong>) is a legal contract between you (“
-          <strong>Affiliate”</strong>) and PancakeSwap that applies to your participation in the PancakeSwap Affiliate
-          Program (“Program”). In this Agreement, “<strong>PancakeSwap</strong>,” “<strong>we</strong>” or “
-          <strong>us</strong>” means PancakeSwap. If you are participating or registering on behalf of a business, then
+          This CloudSwap Affiliate Program Agreement (“<strong>Agreement”</strong>) is a legal contract between you (“
+          <strong>Affiliate”</strong>) and CloudSwap that applies to your participation in the CloudSwap Affiliate
+          Program (“Program”). In this Agreement, “<strong>CloudSwap</strong>,” “<strong>we</strong>” or “
+          <strong>us</strong>” means CloudSwap. If you are participating or registering on behalf of a business, then
           the term “<strong>you</strong>” means such business, and you represent and warrant that you have authority to
           bind that business to this Agreement. By participating or registering to participate in the Program, or
           otherwise indicating your acceptance of this Agreement (such as by clicking a button or checking a box on a
-          web page), you agree to this Agreement which may be amended from time to time by PancakeSwap.
+          web page), you agree to this Agreement which may be amended from time to time by CloudSwap.
         </Text>
 
         <Text as="h3">1. Program Overview</Text>
         <Text as="p">
           1.1 The Program offers you the opportunity to get paid different commission rates, by means of inviting new
-          users (“<strong>Referrals”</strong>) to register and trade on PancakeSwap, in accordance with the terms of
+          users (“<strong>Referrals”</strong>) to register and trade on CloudSwap, in accordance with the terms of
           this Agreement.
         </Text>
         <Text as="p">
-          1.2 A Referral must be a new user and must not have interacted or signed with the PancakeSwap platform or used
-          any of PancakeSwap’s services (including but not limited to V2, V3 swapping services, perpetual trading,
-          Non-Fungible Tokens and related services, initial farm offerings and similar offerings) (“PancakeSwap
+          1.2 A Referral must be a new user and must not have interacted or signed with the CloudSwap platform or used
+          any of CloudSwap’s services (including but not limited to V2, V3 swapping services, perpetual trading,
+          Non-Fungible Tokens and related services, initial farm offerings and similar offerings) (“CloudSwap
           Services”).
         </Text>
 
@@ -38,7 +38,7 @@ const Agreement = () => {
           rates on the following fees:
         </Text>
         <Text as="p">
-          (a) <strong>3</strong>% on trading fees paid by your Referrals on PancakeSwap V2 and PancakeSwap V3, limited
+          (a) <strong>3</strong>% on trading fees paid by your Referrals on CloudSwap V2 and CloudSwap V3, limited
           to swap trades on the BNB Smart Chain, Ethereum chain, Polygon zkEVM, zkSync Era, Arbitrum one, Linea, and
           Base chain only; and
         </Text>
@@ -49,7 +49,7 @@ const Agreement = () => {
         <Text as="p">2.2 To be eligible for commissions, the swap trades must have:</Text>
         <Text as="p">(a) a token pair that:</Text>
         <Text as="p">
-          <Text as="span">(i) Is in the following Pancake Swap token lists</Text>
+          <Text as="span">(i) Is in the following Cloud Swap token lists</Text>
           <Text as="p">
             BNB Smart Chain:
             <Link href="https://tokenlists.org/token-list?url=https://tokens.pancakeswap.finance/pancakeswap-extended.json">
@@ -305,44 +305,44 @@ const Agreement = () => {
         <Text as="h3">12. Relationship of the Parties</Text>
         <Text as="p">
           You agree that this Agreement creates the relationship of service recipient and independent contractor, and
-          not that of employer and employee. You will not be treated as an employee of PancakeSwap for any purpose.
+          not that of employer and employee. You will not be treated as an employee of CloudSwap for any purpose.
           Nothing in this Agreement will create any, partnership, joint venture, agency, franchise, sales representative
           or employer-employee relationships between the Parties. You shall have no authority to make or accept any
-          offers or representations on behalf of PancakeSwap. You shall have no authority to bind PancakeSwap, and
-          undertake not to hold yourself out as an employee, agent or authorised representative of PancakeSwap.
+          offers or representations on behalf of CloudSwap. You shall have no authority to bind CloudSwap, and
+          undertake not to hold yourself out as an employee, agent or authorised representative of CloudSwap.
         </Text>
 
         <Text as="h3">13. No Joint Publicity</Text>
         <Text as="p">
-          You may not claim that any materials are created jointly between you and PancakeSwap, or attribute any
-          materials created or issued by you (including press releases) to PancakeSwap.
+          You may not claim that any materials are created jointly between you and CloudSwap, or attribute any
+          materials created or issued by you (including press releases) to CloudSwap.
         </Text>
 
         <Text as="h3">14. Term and Termination</Text>
         <Text as="p">
-          14.1 PancakeSwap reserves the right to terminate this Agreement in its entirety with or without cause,
+          14.1 CloudSwap reserves the right to terminate this Agreement in its entirety with or without cause,
           effective immediately with written notice of termination to you (for the avoidance of doubt, an email to the
           email address provided by you shall constitute written notice). Upon the termination of this Agreement for any
-          reason, you shall immediately cease use of (and remove from your site) all links to the PancakeSwap website
-          and all images of PancakeSwap and other materials provided under the Program.
+          reason, you shall immediately cease use of (and remove from your site) all links to the CloudSwap website
+          and all images of CloudSwap and other materials provided under the Program.
         </Text>
         <Text as="p">
-          14.2 PancakeSwap, in its sole discretion, reserves the right to suspend or terminate your account and refuse
-          any and all current or future use of the Program, or any other PancakeSwap service, for any reason and at any
+          14.2 CloudSwap, in its sole discretion, reserves the right to suspend or terminate your account and refuse
+          any and all current or future use of the Program, or any other CloudSwap service, for any reason and at any
           time. Such termination will result in the deactivation or deletion of your Affiliate Account.
         </Text>
-        <Text as="p">14.3 PancakeSwap reserves the right to refuse service to anyone for any reason at any time.</Text>
+        <Text as="p">14.3 CloudSwap reserves the right to refuse service to anyone for any reason at any time.</Text>
 
         <Text as="h3">15. Indemnification</Text>
         <Text as="p">
-          You shall indemnify PancakeSwap from and against all claims, losses, liabilities, damages, administrative
+          You shall indemnify CloudSwap from and against all claims, losses, liabilities, damages, administrative
           fines, costs and expenses (including reasonable attorney’s fees) with respect to any third-party claim arising
           out of your breach of this Agreement.
         </Text>
 
         <Text as="h3">16. Limits of Liability</Text>
         <Text as="p">
-          PancakeSwap and any of PancakeSwap&apos;s officers, directors, employees, shareholders or agents of any of
+          CloudSwap and any of CloudSwap&apos;s officers, directors, employees, shareholders or agents of any of
           them, exclude all liability and responsibility for any amount or kind of loss or damage that may result to you
           or a third party (including without limitation, any direct, indirect, punitive or consequential loss or
           damages, or any loss of income, profits, goodwill, data, contracts, use of money, or loss or damages arising

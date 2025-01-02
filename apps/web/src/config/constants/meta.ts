@@ -42,33 +42,33 @@ const getPathList = memoize((t: ContextApi['t']): PathList => {
       '/info': {
         basePath: true,
         title: `${t('Overview')} - ${t('Info')}`,
-        description: 'View statistics for Pancakeswap exchanges.',
+        description: 'View statistics for CloudSwap exchanges.',
         image: `${ASSET_CDN}/web/og/info.jpg`,
       },
       '/info/pairs': {
         title: `${t('Pairs')} - ${t('Info')}`,
-        description: 'View statistics for Pancakeswap exchanges.',
+        description: 'View statistics for CloudSwap exchanges.',
         image: `${ASSET_CDN}/web/og/info.jpg`,
       },
       '/info/tokens': {
         title: `${t('Tokens')} - ${t('Info')}`,
-        description: 'View statistics for Pancakeswap exchanges.',
+        description: 'View statistics for CloudSwap exchanges.',
         image: `${ASSET_CDN}/web/og/info.jpg`,
       },
       '/info/v3/pairs': {
         title: `${t('Pairs')} - ${t('Info')}`,
-        description: 'View statistics for Pancakeswap exchanges.',
+        description: 'View statistics for CloudSwap exchanges.',
         image: `${ASSET_CDN}/web/og/info.jpg`,
       },
       '/info/v3/tokens': {
         title: `${t('Tokens')} - ${t('Info')}`,
-        description: 'View statistics for Pancakeswap exchanges.',
+        description: 'View statistics for CloudSwap exchanges.',
         image: `${ASSET_CDN}/web/og/info.jpg`,
       },
       '/liquidity/pool': {
         basePath: true,
         title: `${t('Pool Detail')}`,
-        description: 'View statistics for Pancakeswap pool.',
+        description: 'View statistics for Cloudswap pool.',
         image: `${ASSET_CDN}/web/og/info.jpg`,
       },
       '/nfts': { title: t('NFT Marketplace'), image: `${ASSET_CDN}/web/og/nft.jpg` },
@@ -78,11 +78,11 @@ const getPathList = memoize((t: ContextApi['t']): PathList => {
       '/pancake-squad': { basePath: true, title: t('Pancake Squad') },
       '/pottery': { basePath: true, title: t('Pottery'), image: `${ASSET_CDN}/web/og/pottery.jpg` },
       '/position-manager': { basePath: true, title: t('Position Manager') },
-      '/cake-staking': { basePath: true, title: t('CAKE Staking') },
+      '/cake-staking': { basePath: true, title: t('Cloud Staking') },
       '/buy-crypto': { basePath: true, title: t('Buy Crypto') },
       '/gauges-voting': { basePath: true, title: t('Gauges Voting') },
     },
-    defaultTitleSuffix: t('PancakeSwap'),
+    defaultTitleSuffix: t('CloudSwap'),
   }
 })
 
